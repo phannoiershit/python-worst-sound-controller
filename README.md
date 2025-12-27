@@ -10,4 +10,5 @@ Convert to exe:
 PyInstaller audio.py --onefile --noconsole --icon=aud.ico
 ```
 The result would in `dist`
+
 You would need Python 64-bit 3.11+
